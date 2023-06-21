@@ -1,3 +1,10 @@
+*/
+
+    Jogo da Velha criado em C para dois jogadores.
+
+/*
+
+
 #include <stdio.h>
 #include <windows.h>
 #include <conio.h>
